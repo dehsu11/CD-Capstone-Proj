@@ -1,0 +1,985 @@
+fileFormatVersion: 2
+guid: 398694421925ce040ad6c12b0d48c237
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bush
+  - first:
+      1: 100002
+    second: Bush 1
+  - first:
+      1: 100004
+    second: Bush 2
+  - first:
+      1: 100006
+    second: Bush 3
+  - first:
+      1: 100008
+    second: Bush 4
+  - first:
+      1: 100010
+    second: Bush 5
+  - first:
+      1: 100012
+    second: Bush 6
+  - first:
+      1: 100014
+    second: Bush 7
+  - first:
+      1: 100016
+    second: Bush 8
+  - first:
+      1: 100018
+    second: Chair
+  - first:
+      1: 100020
+    second: Chair 1
+  - first:
+      1: 100022
+    second: Chair 2
+  - first:
+      1: 100024
+    second: Chair 3
+  - first:
+      1: 100026
+    second: Chair 4
+  - first:
+      1: 100028
+    second: Chair 5
+  - first:
+      1: 100030
+    second: Chair 6
+  - first:
+      1: 100032
+    second: Chair 7
+  - first:
+      1: 100034
+    second: Chair 8
+  - first:
+      1: 100036
+    second: Chair 9
+  - first:
+      1: 100038
+    second: Ground
+  - first:
+      1: 100040
+    second: Parasol
+  - first:
+      1: 100042
+    second: Parasol 1
+  - first:
+      1: 100044
+    second: Parasol 2
+  - first:
+      1: 100046
+    second: Parasol 3
+  - first:
+      1: 100048
+    second: Parasol 4
+  - first:
+      1: 100050
+    second: Parasol 5
+  - first:
+      1: 100052
+    second: Parasol 6
+  - first:
+      1: 100054
+    second: Parasol 7
+  - first:
+      1: 100056
+    second: Parasol 8
+  - first:
+      1: 100058
+    second: Parasol 9
+  - first:
+      1: 100060
+    second: Pillar
+  - first:
+      1: 100062
+    second: Pillar 1
+  - first:
+      1: 100064
+    second: Pillar 2
+  - first:
+      1: 100066
+    second: Pillar 3
+  - first:
+      1: 100068
+    second: Road
+  - first:
+      1: 100070
+    second: Road 1
+  - first:
+      1: 100072
+    second: Rock
+  - first:
+      1: 100074
+    second: Rock 1
+  - first:
+      1: 100076
+    second: Rock 10
+  - first:
+      1: 100078
+    second: Rock 2
+  - first:
+      1: 100080
+    second: Rock 3
+  - first:
+      1: 100082
+    second: Rock 4
+  - first:
+      1: 100084
+    second: Rock 5
+  - first:
+      1: 100086
+    second: Rock 6
+  - first:
+      1: 100088
+    second: Rock 7
+  - first:
+      1: 100090
+    second: Rock 8
+  - first:
+      1: 100092
+    second: Rock 9
+  - first:
+      1: 100094
+    second: //RootNode
+  - first:
+      1: 100096
+    second: Tree
+  - first:
+      1: 100098
+    second: Tree 1
+  - first:
+      1: 100100
+    second: Tree 2
+  - first:
+      1: 100102
+    second: Tree 3
+  - first:
+      1: 100104
+    second: Tree 4
+  - first:
+      1: 100106
+    second: Tree 5
+  - first:
+      1: 100108
+    second: Villa
+  - first:
+      1: 100110
+    second: Villa 1
+  - first:
+      1: 100112
+    second: Villa 2
+  - first:
+      1: 100114
+    second: Villa 3
+  - first:
+      1: 100116
+    second: Villa 4
+  - first:
+      4: 400000
+    second: Bush
+  - first:
+      4: 400002
+    second: Bush 1
+  - first:
+      4: 400004
+    second: Bush 2
+  - first:
+      4: 400006
+    second: Bush 3
+  - first:
+      4: 400008
+    second: Bush 4
+  - first:
+      4: 400010
+    second: Bush 5
+  - first:
+      4: 400012
+    second: Bush 6
+  - first:
+      4: 400014
+    second: Bush 7
+  - first:
+      4: 400016
+    second: Bush 8
+  - first:
+      4: 400018
+    second: Chair
+  - first:
+      4: 400020
+    second: Chair 1
+  - first:
+      4: 400022
+    second: Chair 2
+  - first:
+      4: 400024
+    second: Chair 3
+  - first:
+      4: 400026
+    second: Chair 4
+  - first:
+      4: 400028
+    second: Chair 5
+  - first:
+      4: 400030
+    second: Chair 6
+  - first:
+      4: 400032
+    second: Chair 7
+  - first:
+      4: 400034
+    second: Chair 8
+  - first:
+      4: 400036
+    second: Chair 9
+  - first:
+      4: 400038
+    second: Ground
+  - first:
+      4: 400040
+    second: Parasol
+  - first:
+      4: 400042
+    second: Parasol 1
+  - first:
+      4: 400044
+    second: Parasol 2
+  - first:
+      4: 400046
+    second: Parasol 3
+  - first:
+      4: 400048
+    second: Parasol 4
+  - first:
+      4: 400050
+    second: Parasol 5
+  - first:
+      4: 400052
+    second: Parasol 6
+  - first:
+      4: 400054
+    second: Parasol 7
+  - first:
+      4: 400056
+    second: Parasol 8
+  - first:
+      4: 400058
+    second: Parasol 9
+  - first:
+      4: 400060
+    second: Pillar
+  - first:
+      4: 400062
+    second: Pillar 1
+  - first:
+      4: 400064
+    second: Pillar 2
+  - first:
+      4: 400066
+    second: Pillar 3
+  - first:
+      4: 400068
+    second: Road
+  - first:
+      4: 400070
+    second: Road 1
+  - first:
+      4: 400072
+    second: Rock
+  - first:
+      4: 400074
+    second: Rock 1
+  - first:
+      4: 400076
+    second: Rock 10
+  - first:
+      4: 400078
+    second: Rock 2
+  - first:
+      4: 400080
+    second: Rock 3
+  - first:
+      4: 400082
+    second: Rock 4
+  - first:
+      4: 400084
+    second: Rock 5
+  - first:
+      4: 400086
+    second: Rock 6
+  - first:
+      4: 400088
+    second: Rock 7
+  - first:
+      4: 400090
+    second: Rock 8
+  - first:
+      4: 400092
+    second: Rock 9
+  - first:
+      4: 400094
+    second: //RootNode
+  - first:
+      4: 400096
+    second: Tree
+  - first:
+      4: 400098
+    second: Tree 1
+  - first:
+      4: 400100
+    second: Tree 2
+  - first:
+      4: 400102
+    second: Tree 3
+  - first:
+      4: 400104
+    second: Tree 4
+  - first:
+      4: 400106
+    second: Tree 5
+  - first:
+      4: 400108
+    second: Villa
+  - first:
+      4: 400110
+    second: Villa 1
+  - first:
+      4: 400112
+    second: Villa 2
+  - first:
+      4: 400114
+    second: Villa 3
+  - first:
+      4: 400116
+    second: Villa 4
+  - first:
+      23: 2300000
+    second: Bush
+  - first:
+      23: 2300002
+    second: Bush 1
+  - first:
+      23: 2300004
+    second: Bush 2
+  - first:
+      23: 2300006
+    second: Bush 3
+  - first:
+      23: 2300008
+    second: Bush 4
+  - first:
+      23: 2300010
+    second: Bush 5
+  - first:
+      23: 2300012
+    second: Bush 6
+  - first:
+      23: 2300014
+    second: Bush 7
+  - first:
+      23: 2300016
+    second: Bush 8
+  - first:
+      23: 2300018
+    second: Chair
+  - first:
+      23: 2300020
+    second: Chair 1
+  - first:
+      23: 2300022
+    second: Chair 2
+  - first:
+      23: 2300024
+    second: Chair 3
+  - first:
+      23: 2300026
+    second: Chair 4
+  - first:
+      23: 2300028
+    second: Chair 5
+  - first:
+      23: 2300030
+    second: Chair 6
+  - first:
+      23: 2300032
+    second: Chair 7
+  - first:
+      23: 2300034
+    second: Chair 8
+  - first:
+      23: 2300036
+    second: Chair 9
+  - first:
+      23: 2300038
+    second: Ground
+  - first:
+      23: 2300040
+    second: Parasol
+  - first:
+      23: 2300042
+    second: Parasol 1
+  - first:
+      23: 2300044
+    second: Parasol 2
+  - first:
+      23: 2300046
+    second: Parasol 3
+  - first:
+      23: 2300048
+    second: Parasol 4
+  - first:
+      23: 2300050
+    second: Parasol 5
+  - first:
+      23: 2300052
+    second: Parasol 6
+  - first:
+      23: 2300054
+    second: Parasol 7
+  - first:
+      23: 2300056
+    second: Parasol 8
+  - first:
+      23: 2300058
+    second: Parasol 9
+  - first:
+      23: 2300060
+    second: Pillar
+  - first:
+      23: 2300062
+    second: Pillar 1
+  - first:
+      23: 2300064
+    second: Pillar 2
+  - first:
+      23: 2300066
+    second: Pillar 3
+  - first:
+      23: 2300068
+    second: Road
+  - first:
+      23: 2300070
+    second: Road 1
+  - first:
+      23: 2300072
+    second: Rock
+  - first:
+      23: 2300074
+    second: Rock 1
+  - first:
+      23: 2300076
+    second: Rock 10
+  - first:
+      23: 2300078
+    second: Rock 2
+  - first:
+      23: 2300080
+    second: Rock 3
+  - first:
+      23: 2300082
+    second: Rock 4
+  - first:
+      23: 2300084
+    second: Rock 5
+  - first:
+      23: 2300086
+    second: Rock 6
+  - first:
+      23: 2300088
+    second: Rock 7
+  - first:
+      23: 2300090
+    second: Rock 8
+  - first:
+      23: 2300092
+    second: Rock 9
+  - first:
+      23: 2300094
+    second: Tree
+  - first:
+      23: 2300096
+    second: Tree 1
+  - first:
+      23: 2300098
+    second: Tree 2
+  - first:
+      23: 2300100
+    second: Tree 3
+  - first:
+      23: 2300102
+    second: Tree 4
+  - first:
+      23: 2300104
+    second: Tree 5
+  - first:
+      23: 2300106
+    second: Villa
+  - first:
+      23: 2300108
+    second: Villa 1
+  - first:
+      23: 2300110
+    second: Villa 2
+  - first:
+      23: 2300112
+    second: Villa 3
+  - first:
+      23: 2300114
+    second: Villa 4
+  - first:
+      33: 3300000
+    second: Bush
+  - first:
+      33: 3300002
+    second: Bush 1
+  - first:
+      33: 3300004
+    second: Bush 2
+  - first:
+      33: 3300006
+    second: Bush 3
+  - first:
+      33: 3300008
+    second: Bush 4
+  - first:
+      33: 3300010
+    second: Bush 5
+  - first:
+      33: 3300012
+    second: Bush 6
+  - first:
+      33: 3300014
+    second: Bush 7
+  - first:
+      33: 3300016
+    second: Bush 8
+  - first:
+      33: 3300018
+    second: Chair
+  - first:
+      33: 3300020
+    second: Chair 1
+  - first:
+      33: 3300022
+    second: Chair 2
+  - first:
+      33: 3300024
+    second: Chair 3
+  - first:
+      33: 3300026
+    second: Chair 4
+  - first:
+      33: 3300028
+    second: Chair 5
+  - first:
+      33: 3300030
+    second: Chair 6
+  - first:
+      33: 3300032
+    second: Chair 7
+  - first:
+      33: 3300034
+    second: Chair 8
+  - first:
+      33: 3300036
+    second: Chair 9
+  - first:
+      33: 3300038
+    second: Ground
+  - first:
+      33: 3300040
+    second: Parasol
+  - first:
+      33: 3300042
+    second: Parasol 1
+  - first:
+      33: 3300044
+    second: Parasol 2
+  - first:
+      33: 3300046
+    second: Parasol 3
+  - first:
+      33: 3300048
+    second: Parasol 4
+  - first:
+      33: 3300050
+    second: Parasol 5
+  - first:
+      33: 3300052
+    second: Parasol 6
+  - first:
+      33: 3300054
+    second: Parasol 7
+  - first:
+      33: 3300056
+    second: Parasol 8
+  - first:
+      33: 3300058
+    second: Parasol 9
+  - first:
+      33: 3300060
+    second: Pillar
+  - first:
+      33: 3300062
+    second: Pillar 1
+  - first:
+      33: 3300064
+    second: Pillar 2
+  - first:
+      33: 3300066
+    second: Pillar 3
+  - first:
+      33: 3300068
+    second: Road
+  - first:
+      33: 3300070
+    second: Road 1
+  - first:
+      33: 3300072
+    second: Rock
+  - first:
+      33: 3300074
+    second: Rock 1
+  - first:
+      33: 3300076
+    second: Rock 10
+  - first:
+      33: 3300078
+    second: Rock 2
+  - first:
+      33: 3300080
+    second: Rock 3
+  - first:
+      33: 3300082
+    second: Rock 4
+  - first:
+      33: 3300084
+    second: Rock 5
+  - first:
+      33: 3300086
+    second: Rock 6
+  - first:
+      33: 3300088
+    second: Rock 7
+  - first:
+      33: 3300090
+    second: Rock 8
+  - first:
+      33: 3300092
+    second: Rock 9
+  - first:
+      33: 3300094
+    second: Tree
+  - first:
+      33: 3300096
+    second: Tree 1
+  - first:
+      33: 3300098
+    second: Tree 2
+  - first:
+      33: 3300100
+    second: Tree 3
+  - first:
+      33: 3300102
+    second: Tree 4
+  - first:
+      33: 3300104
+    second: Tree 5
+  - first:
+      33: 3300106
+    second: Villa
+  - first:
+      33: 3300108
+    second: Villa 1
+  - first:
+      33: 3300110
+    second: Villa 2
+  - first:
+      33: 3300112
+    second: Villa 3
+  - first:
+      33: 3300114
+    second: Villa 4
+  - first:
+      43: 4300000
+    second: Tree
+  - first:
+      43: 4300002
+    second: Chair
+  - first:
+      43: 4300004
+    second: Villa
+  - first:
+      43: 4300006
+    second: Rock
+  - first:
+      43: 4300008
+    second: Bush
+  - first:
+      43: 4300010
+    second: Ground
+  - first:
+      43: 4300012
+    second: Rock
+  - first:
+      43: 4300014
+    second: Rock
+  - first:
+      43: 4300016
+    second: Rock
+  - first:
+      43: 4300018
+    second: Rock
+  - first:
+      43: 4300020
+    second: Rock
+  - first:
+      43: 4300022
+    second: Rock
+  - first:
+      43: 4300024
+    second: Rock
+  - first:
+      43: 4300026
+    second: Rock
+  - first:
+      43: 4300028
+    second: Rock
+  - first:
+      43: 4300030
+    second: Rock
+  - first:
+      43: 4300032
+    second: Bush
+  - first:
+      43: 4300034
+    second: Bush
+  - first:
+      43: 4300036
+    second: Bush
+  - first:
+      43: 4300038
+    second: Bush
+  - first:
+      43: 4300040
+    second: Bush
+  - first:
+      43: 4300042
+    second: Bush
+  - first:
+      43: 4300044
+    second: Bush
+  - first:
+      43: 4300046
+    second: Bush
+  - first:
+      43: 4300048
+    second: Tree
+  - first:
+      43: 4300050
+    second: Tree
+  - first:
+      43: 4300052
+    second: Tree
+  - first:
+      43: 4300054
+    second: Tree
+  - first:
+      43: 4300056
+    second: Tree
+  - first:
+      43: 4300058
+    second: Villa
+  - first:
+      43: 4300060
+    second: Villa
+  - first:
+      43: 4300062
+    second: Villa
+  - first:
+      43: 4300064
+    second: Villa
+  - first:
+      43: 4300066
+    second: Parasol
+  - first:
+      43: 4300068
+    second: Parasol
+  - first:
+      43: 4300070
+    second: Parasol
+  - first:
+      43: 4300072
+    second: Parasol
+  - first:
+      43: 4300074
+    second: Parasol
+  - first:
+      43: 4300076
+    second: Parasol
+  - first:
+      43: 4300078
+    second: Parasol
+  - first:
+      43: 4300080
+    second: Parasol
+  - first:
+      43: 4300082
+    second: Parasol
+  - first:
+      43: 4300084
+    second: Parasol
+  - first:
+      43: 4300086
+    second: Chair
+  - first:
+      43: 4300088
+    second: Chair
+  - first:
+      43: 4300090
+    second: Chair
+  - first:
+      43: 4300092
+    second: Chair
+  - first:
+      43: 4300094
+    second: Chair
+  - first:
+      43: 4300096
+    second: Chair
+  - first:
+      43: 4300098
+    second: Chair
+  - first:
+      43: 4300100
+    second: Chair
+  - first:
+      43: 4300102
+    second: Chair
+  - first:
+      43: 4300104
+    second: Road
+  - first:
+      43: 4300106
+    second: Road
+  - first:
+      43: 4300108
+    second: Pillar
+  - first:
+      43: 4300110
+    second: Pillar
+  - first:
+      43: 4300112
+    second: Pillar
+  - first:
+      43: 4300114
+    second: Pillar
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
